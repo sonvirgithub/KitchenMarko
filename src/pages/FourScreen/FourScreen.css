@@ -1,0 +1,89 @@
+.kitchen-min {
+    position: relative;
+    top: 34vw;
+    padding: 0 45vw 2vw 17vw;
+
+}
+
+.kitchen-min-comp1 {
+    position: absolute;
+    top: 20%;
+    bottom: 20%;
+    
+}
+
+.kitchen-min-comp2 {
+    background-color: #FBF6EF;
+    border: 1px solid #000000;
+    height: 28vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 3vw 2vw 3vw 8vw;
+}
+
+.img-min {
+    width: 15vw;
+    margin-left: -9vw;
+}
+
+.img-slider {
+    position: relative;
+}
+
+.slider-img-div {
+    background-color: #001623;
+    bottom: 0;
+    left: -9vw;
+    position: absolute;
+}
+
+.slider-menu-img {
+    width: 15vw;
+}
+
+.kitchen-min-title {
+    font-size: 1.5vw;
+    font-family: Lora-SemiBold;
+
+}
+
+.ekonom {
+    color: #002B45;
+    font-size: 1vw;
+
+}
+.ekonom-border {
+    border-right: 1px solid #D9D9D9;
+    width: 6vw;
+}
+.ek-st-pr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.more-btns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.corner-kitchen {
+    margin-top: 1.5vw;
+    font-size: 1vw;
+    font-family: OpenSans-Light;
+}
+
+.kitchen-length {
+    font-size: 1vw;
+    display: flex;
+    justify-content: start;
+    color: #7C7C7C;
+}
+
+.ek-txt2 {
+    font-family: OpenSans-Light;
+}
+
+.ek-txt1 {
+    font-family: OpenSans-Bold;
+}

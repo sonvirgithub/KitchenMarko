@@ -1,0 +1,60 @@
+.comp-image1 {
+    color: #FFFFFF;
+font-size: 1.1vw;
+font-weight: 400;
+padding: 1vw 2vw;
+border-radius: 15px;
+position: absolute;
+top: 8.5vw;
+background-color: #002B45;
+margin-left: 28vw;
+display: flex;
+align-items: center;
+width: 14%;
+
+
+}
+
+.comp-image2 {
+    color: #FFFFFF;
+font-size: 1.1vw;
+font-weight: 400;
+padding: 1vw 2vw;
+border-radius: 15px;
+background-color: #002B45;
+display: flex;
+align-items: center;
+top: 17.8vw;
+width: 17vw;
+
+
+}
+
+.comp-image3 {
+    color: #FFFFFF;
+font-size: 1.1vw;
+font-weight: 400;
+padding: 1vw 2vw;
+border-radius: 15px;
+background-color: #002B45;
+position: absolute;
+display: flex;
+justify-content: space-between;
+align-items: center;
+top: 28vw;
+width: 14vw;
+left: 47vw;
+
+
+}
+
+.ellipse {
+    width: 2vw;
+    height: 2vw;
+    position: absolute;
+    right: -10px;
+}
+
+.comp-img-txt {
+    font-family: OpenSans-Regular;
+}

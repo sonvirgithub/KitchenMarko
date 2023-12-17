@@ -1,0 +1,85 @@
+.advantages-full {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.kitchen1-img {
+    position: absolute;
+    top: -2vw;
+    width: 22vw;
+}
+
+.advantages-txt {
+    font-size: 2vw;
+    color: #002B45;
+    width: 33%;
+    font-family: Lora-SemiBold;
+
+}
+
+.advantages {
+    left: 22vw;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    background: #FBF6EF;
+    padding: 5vw 0 5vw 5vw;
+    color: #002B45;
+
+
+    
+}
+
+.line-adv {
+    background-color: #002B45;
+    height: 1px;
+    width: 67%;
+
+}
+
+.adv-line {
+    left: 27vw;
+    align-items: center;
+    top: 4vw;
+    display: flex;
+    right: 0;
+
+}
+
+.kitchen-icon {
+    width: 4.5vw;
+    height: 4.5vw;
+}
+
+.adv-comp1 {
+    display: flex;
+    align-items: start;
+}
+
+.adv-comp1-txt {
+    margin-left: 2vw;
+    line-height: 2vw;
+    font-size: 1.3vw;
+}
+
+.components {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 6vw;
+    margin-top: 2.5vw;
+}
+
+.txt1 {
+    color: #002B45;
+font-family: OpenSans-Bold;
+
+}
+
+.txt2 {
+    font-family: OpenSans-Regular;
+
+}

@@ -1,0 +1,36 @@
+.line-work {
+height: 1px;
+background: #002B45;
+width: 6vw;
+}
+
+.works-txt {
+    font-size: 2vw;
+    color: #002B45;
+    margin-left: 2vw;
+    font-family: Lora-SemiBold;
+
+}
+
+.ln-work-txt {
+    display: flex;
+    align-items: center;
+    
+}
+.works {
+    position: relative;
+    top: 30vw;
+}
+
+.selects {
+    display: flex;
+    width: 48%;
+}
+
+.app-throw-btns {
+    display: flex;
+}
+
+.selct-btns {
+    display: flex;
+}

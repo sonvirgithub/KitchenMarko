@@ -1,0 +1,45 @@
+.apply-btn {
+    background: #E1E1E1;
+    padding: 1.3vw 2vw;
+    color: #002B45;
+    height: fit-content;
+margin-top: 5vw;
+border: 1px solid #E1E1E1;
+font-size: 1vw;
+
+
+}
+
+.throw-off-btn {
+    border: 1px solid #000000;
+    padding: 1.3vw 1vw;
+    color: #002B45;
+    background: #FFFFFF;
+    height: fit-content;
+    margin-top: 5vw;
+    margin-left: 2vw;
+    font-size: 1vw;
+
+}
+.more-btn {
+    padding: 1.3vw 1vw;
+    background: #002B45;
+    color: #FFFFFF;
+    font-size: 1vw;
+    width: 8vw;
+
+}
+.btn {
+    cursor: pointer;
+    font-family: OpenSans-Light;
+
+}
+
+.cost-calc-btn {
+    padding: 1.3vw 1vw;
+    color: #002B45;
+    font-size: 1vw;
+    border: 1px solid #000000;
+
+
+}

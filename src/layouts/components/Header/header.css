@@ -1,0 +1,109 @@
+.header {
+  background: #002B45E5;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8vw;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 4vw 0 4vw;
+  align-items: center;
+  color: #FFFFFF;
+
+}
+
+.logo {
+  width: 13.8vw;
+  height: 4.1vw;
+}
+
+.location {
+  display: flex;
+  margin-left: 1.5vw;
+  
+}
+.location-icon {
+  width: 4.4vw;
+  height: 4.4vw;
+}
+.yandex-map {
+  font-size: 1vw;
+  font-family: YandexSansDisplay-Bold;
+
+}
+.stars {
+  display: flex;
+}
+
+.location-stars {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.like {
+  font-size: 0.6vw;
+  font-family: YandexSansDisplay-Light;
+
+}
+
+.address {
+  width: 26vw;
+  font-size: 1vw;
+  line-height: 2vw;
+  margin-left: 6vw;
+}
+
+.order-call {
+  border: 0.84px solid #FFFFFF;
+  padding: 1.1vw 2.08vw;
+  font-size: 1vw;
+  cursor: pointer;
+  font-family: OpenSans-Light;
+  font-weight: 400;
+  
+}
+.telephone {
+  font-size: 1.5vw;
+  font-family: OpenSans-Bold;
+
+}
+
+.w-t-icon {
+  width: 2.8vw;
+  height: 2.8vw;
+  cursor: pointer;
+}
+
+.star {
+  font-size: 1.65vw;
+  color: #827F7F;
+  font-family: YandexSansDisplay-Bold;
+
+
+}
+
+.phone {
+  margin-left: 3vw;
+  width: 58%;
+  justify-content: space-around !important;
+
+
+}
+
+.call {
+  width: auto;
+  justify-content: space-around;
+}
+
+.zakaz {
+  font-family: OpenSans-Bold;
+  font-size: 1vw;
+line-height: 2vw;
+}
+
+.add-txt {
+  font-family: OpenSans-light;
+  font-size: 1vw;
+line-height: 2vw;
+}

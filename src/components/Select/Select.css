@@ -1,0 +1,67 @@
+.plans {
+    margin-top: 5vw;
+    margin-left: 8vw;
+    width: 6vw;
+ 
+}
+
+.plan-text {
+    color: #FBF6EF;
+    font-size: 1vw;
+    font-family: OpenSans-Light;
+}
+.btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.3vw 2vw;
+
+}
+.btn-plan {
+   
+    background: #002B45;
+    width: 13vw;
+}
+.btn-style {
+    
+    border: 1px solid #002B45;
+    width: 13vw;
+}
+.btn-color {
+   
+    border: 1px solid #002B45;
+    width: 9vw;
+}
+.close-polygon {
+    -webkit-transform: rotate(180deg);
+
+}
+
+ul {
+    /* border: 0.7px solid #002B45; */
+    width: 14vw;
+    padding: 2vw 2vw 1vw 2vw;
+    margin-top: 1.5vw;
+    box-shadow: 0px 4px 7.300000190734863px 6px #0000000D;
+    position: absolute;
+    background: #FFFFFF;
+    z-index: 1;
+    font-family: OpenSans-Light;
+    font-size: 1vw;
+
+
+}
+
+li {
+    margin-bottom: 1vw;
+}
+
+.class-text {
+    color: #002B45;
+    
+}
+
+.polygon-white-open {
+    width: 1vw;
+    height: 1vw;
+}

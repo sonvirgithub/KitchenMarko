@@ -1,0 +1,102 @@
+.first-screen {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    position: -webkit-sticky;
+    
+    
+
+}
+
+.first-screen-div {
+    position: relative;
+}
+
+.cook {
+    color: #FFFFFF;
+    font-size: 3.5vw;
+    width: 41vw;
+    font-weight: 400;
+    font-family: Lora-Bold;
+}
+
+.cook-div {
+    position: absolute;
+display: flex;
+justify-content: space-between;
+top: 15vw;
+left: 0;
+width: 67%;
+align-items: center;
+}
+
+.line {
+    background: #FFFFFF;
+    height: 1px;
+    width: 6.6vw;
+}
+
+.wallet-div {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 26vw;
+    left: 8vw;
+}
+
+.wallet {
+    width: 4.5vw;
+    height: 4.5vw;
+}
+
+.price {
+    font-size: 1.5vw;
+color: #FFFFFF;
+margin-left: 2vw;
+width: 20vw;
+
+
+}
+
+.dream {
+    font-size: 1vw;
+    color: #FFFFFF;
+    font-family: OpenSans-Light;
+
+}
+
+.order-payment-btn {
+    color: #FFFFFF;
+    font-size: 1.1vw;
+    border: 1px solid #FFFFFF;
+    padding: 1.3vw 2.3vw;
+    margin-top: 1vw;
+    display: inline-block;
+    cursor: pointer;
+    font-family: OpenSans-Light;
+
+
+}
+
+.arr-dream {
+    display: flex;
+    position: absolute;
+    left: 8vw;
+    top: 33vw;
+}
+
+.arrow {
+    margin-top: 0.4vw;
+    width: 3.3vw;
+    height: 6.2vw;
+}
+
+.price-txt1 {
+    font-family: OpenSans-Bold;
+}
+
+.price-txt2 {
+    font-family: OpenSans-Regular;
+}
